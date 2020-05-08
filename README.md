@@ -2,14 +2,14 @@
 
 The objective of the casestudy is to analyse the customer reviews and predict the customer satisfaction with the rewiews
 
-Data processing
+1.Data processing
 
-Key positive words/negative words(most frequent words)
+2.Key positive words/negative words(most frequent words)
 
-Classification of reviews into positive and negative reviews
+3.Classification of reviews into positive and negative reviews
 
-Identify key themes of the problem (using clustering and topic models)
+4.Identify key themes of the problem (using clustering and topic models)
 
-Predicting star rating using reviews
+5.Predicting star rating using reviews
 
-Perform intent analysis
+6.Perform intent analysis
